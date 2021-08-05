@@ -1,0 +1,14 @@
+
+
+.navBar__img {
+    width: 50px;
+}
+
+.navBar__link {
+    color: white;
+    text-decoration: none;
+}
+
+.navBar__link:hover{
+    color: white;
+}
